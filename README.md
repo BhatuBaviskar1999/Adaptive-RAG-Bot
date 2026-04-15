@@ -257,7 +257,7 @@ Form Data:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/BhatuBaviskar1999/Adaptive-RAG-Bot.git
 cd AdaptiveRag
 
 # Create virtual environment
@@ -559,9 +559,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Maintainer
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- Project: [Adaptive RAG](https://github.com/your-username/<your-repo>)
+**Bhatu Baviskar**
+- GitHub: [@BhatuBaviskar1999](https://github.com/BhatuBaviskar1999)
+- Project: [Adaptive-RAG-Bot](https://github.com/BhatuBaviskar1999/Adaptive-RAG-Bot)
 
 ---
 
